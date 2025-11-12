@@ -5,7 +5,7 @@ In recent years, Kenya has faced recurring challenges with **load shedding**, im
 
 This analysis is presented as a data story, walking through a 6-chart narrative that diagnoses the historical problem, analyzes the current strategy, and delivers a final, data-driven verdict on the future of Kenya's energy security.
 
-**View the final deployed project here:** `[[LINK TO DEPLOYED WEBSITE](https://kenya-power-story.lovable.app/)]`
+**View the final deployed project here:** `[[LINK TO DEPLOYED WEBSITE](https://energy-story-unpacked.lovable.app/)
 
 ---
 

@@ -1,4 +1,4 @@
-# The Resilience & Reliability Analyst: A Data Story on Kenya's Energy Vulnerability
+# The Resilience & Reliability Analyst: A Data Story on Kenya's Energy Future
 ## Project Description
 
 In recent years, Kenya has faced recurring challenges with **load shedding**, impacting economic stability and daily life. This project moves beyond the headlines to find the data-driven truth. It analyzes over two decades (2000-2024) of Kenya's electricity data to answer a critical question: **Why does this keep happening, and is our national strategy to fix it working?**
